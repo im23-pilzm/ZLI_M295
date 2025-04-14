@@ -1,0 +1,1 @@
+zahl = process.argv[2];

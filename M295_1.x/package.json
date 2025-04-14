@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bl": "^6.1.0",
+    "concat": "^1.0.3",
+    "concat-stream": "^2.0.0",
+    "strftime": "^0.10.3"
+  }
+}
