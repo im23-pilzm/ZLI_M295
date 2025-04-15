@@ -1,5 +1,4 @@
 const express = require('express');
-const {response, json} = require("express");
 const app = express();
 const port = 7002;
 
