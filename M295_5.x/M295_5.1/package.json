@@ -1,0 +1,12 @@
+{
+  "name": "m295_5.1",
+  "version": "1.0.0",
+  "main": "libary_one.js",
+  "scripts": {
+    "startLibaryOne": "node libary_one.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
